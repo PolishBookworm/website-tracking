@@ -1,6 +1,2 @@
-name,url
-meritum,https://www.ko.rzeszow.pl/kuratorium/meritum-pismo-pko/
-prezentki_główna,http://www.prezentek.edu.pl/index.php
-prezentki_podr,http://www.prezentek.edu.pl/index.php/dla-ucznia/podreczniki
-prezentki_plany,http://www.prezentek.edu.pl/index.php/dla-ucznia/plany-nauczania
-prezentki_rekrutacja,http://www.prezentek.edu.pl/index.php/rekrutacja/rekrutacja-do-liceum
+name,url,page_tag,content
+meritum,https://www.ko.rzeszow.pl/kuratorium/meritum-pismo-pko/,h2 > strong > a,"['MERITUM – numer 8 (44) kwiecień-czerwiec 2022 r. – plik *.pdf', 'MERITUM – numer 7 (43) styczeń-marzec 2022 r. – plik *.pdf', 'MERITUM – numer 6 (26) wrzesień 2019 r. – plik *.pdf', 'MERITUM – numer 5 (25) lipiec-sierpień 2019 r. – plik *.pdf', 'MERITUM – numer 3 (23) kwiecień-maj 2019 r. – plik *.pdf', 'MERITUM – numer 2 (22) marzec 2019 r. – plik *.pdf', 'MERITUM – numer 1 (21) styczeń-luty 2019 r. – plik *.pdf', 'MERITUM – numer 9 (20) grudzień 2018 r. – plik *.pdf', 'MERITUM – numer 8 (19)\xa0październik-listopad 2018\xa0– plik *.pdf', 'MERITUM – numer 7 (18) wrzesień 2018 r. – plik *.pdf', 'MERITUM – numer 6 (17) lipiec – sierpień 2018 r. – plik *.pdf', 'MERITUM – numer 5 (16) czerwiec 2018 r. – plik *.pdf', 'MERITUM – numer 4 (15) maj 2018 r. – plik *.pdf', 'MERITUM – numer 3 (14) – kwiecień 2018 r. – plik *.pdf', 'MERITUM – numer 2 (13) – marzec 2018 r. – plik *.pdf', 'MERITUM – numer 1 (12) – styczeń-luty 2018 r. – plik *.pdf']"
